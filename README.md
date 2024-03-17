@@ -20,7 +20,7 @@ To get started with Vidly, make sure you have Node.js version 20.11.1 installed.
 ```bash
 git clone https://github.com/your-username/vidly.git
 cd vidly
-npm install
+npm install```
 
 ## Usage
 
