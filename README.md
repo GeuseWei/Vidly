@@ -29,3 +29,18 @@ To start the application, run the following command:
 
 `npm start`
 
+For running tests:
+
+`npm test`
+
+## Dependencies
+
+Vidly uses a number of open-source projects:
+
+- **Express**: Fast, unopinionated, minimalist web framework for Node.js
+- **Mongoose**: Elegant MongoDB object modeling for Node.js
+- **bcrypt**: A library to help you hash passwords
+- **jsonwebtoken**: Implementation of JSON Web Tokens
+- ...and more!
+
+See the `package.json` file for a complete list of dependencies.
